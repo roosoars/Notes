@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Buscar</string>
+    <string name="save">Salvar</string>
+    <string name="editfab">editFab</string>
+    <string name="enter_the_description">Insira a descrição</string>
+    <string name="enter_the_title">Insira o título</string>
+    <string name="edit_note">Editar Nota.</string>
+    <string name="add_note">Adicionar Nota.</string>
+    <string name="description">Descrição</string>
+    <string name="note_title">Título da Nota</string>
+    <string name="crie_sua_primeira_nota">Crie uma nota</string>
+</resources>
